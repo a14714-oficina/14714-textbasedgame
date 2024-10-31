@@ -1,5 +1,5 @@
 Trabalho Aula de Autonomia PSI
-
+<h1>TextBasedGame</h1>
 O jogo que eu criei é basicamente de aventura em texto que desenvolvi em Python, onde o
 jogador toma decisões que influenciam no final da história. este jogo é destinado a pessoas
 que querem jogar um jogo fácil e divertido, o jogo permite que o jogador explore caminhos
@@ -13,4 +13,4 @@ Acho que um dos principais desafios foi tentar não repetir as funções no cód
 principalmente nas escolhas condicionais.
 Conclusão:
 Este projeto está a ser muito bom para mim, para eu melhorar os meus conhecimentos
-como programador e no futuro quero deixar o jogo um pouco mais co
+como programador e no futuro quero deixar o jogo um pouco mais completo
