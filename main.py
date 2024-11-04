@@ -1,51 +1,54 @@
-print("Bem-vindo à Floresta Encantada!")
-nome = input("Qual é o teu nome? ")
-print(f"{nome}, queres jogar?")
-escolha = input("Sim(S) ou Não(N) ").lower()
+print("Bem-vindo à Floresta Encantada!") 
+nome = input("Qual é o teu nome? ")  # Perguntar o nome do jogador
+print(f"{nome}, queres jogar?")  # Pergunta se o jogador quer jogar
+escolha = input("Sim (S) ou Não (N): ").lower()  # O jogador responde
 if escolha == "s":
-    print("OK, vamos lá!")
+    print("OK, vamos a isso!")  # Confirma que o jogador quer jogar
 elif escolha == "n":
-    print("OK, obrigado!")
+    print("OK, obrigado!")  # Agradece e encerra o jogo
     exit()
-print("Tu estás na Floresta Tropical!")
-direcao1 = input(f"{nome}, queres ir pela esquerda, pela direita ou pela frente? ")
-if direcao1 == "esquerda":
-    print("tu andaste e encontraste um rio com animais selvangens,GAME OVER!")
+print("Tu estás na Floresta Tropical!")  # Descrição do cenário inicial
+direcao1 = input(f"{nome}, queres ir pela esquerda, pela direita ou pela frente? ")  # Perguntar a direção
+if direcao1 == "esquerda":  # Se o jogador escolher a esquerda
+    print("Tu andaste e encontraste um rio com animais selvagens. FIM DE JOGO!")  # O jogador perdeu!
     exit()
-elif direcao1 == "frente":
-    print("tu foste a andar a caminhar por um caminho de terra.")
-print("queres continuar a explorar o caminho?")
-escolha2 = input("Sim(S) ou Não(N)").lower()
-print("continuaste a andar e encontraste uma espada, desejas pegar nela?")
-escolha3 = input("Sim(S) ou Não(N)").lower()
-print("Prepara-te encontraste um Goblin Gigante!")
-print("queres atacar o goblin gigante?")
-escolha4 = input("Sim(S) ou Não(N)").lower()
-if escolha4 == "Sim(S)":
-    print("MUITO BEM!, tu conseguiste matar o gigante,GANHASTE!")
-    exit()
-elif escolha4 == "Não(N)":
-    print("o goblin gigante atacou-te e tu morreste! GAME OVER!")
-    exit()
-if direcao1 == "direita":
-    print("encontraste uma casa!")
-print("queres entrar na casa?")
-escolha5 = input("Sim(S) ou Não(N)").lower()
-if escolha5 == "SIM(s)":
-    print("entraste na casa, a tua frente tem umas escadas queres subir?")
-escolha6 = input("Sim(S) ou Não(N)").lower()
-if escolha6 == "SIM(s)":
-    print("JA FOSTE!, encontraste um dragão e morreste!")
-if escolha6 == "Não(N)":
-    print("Encontraste muitas armas!")
-print("queres pegar nas armas e depois subir as escadas?")
-escolha7 = input("Sim(S) ou Não(N)").lower()
-print("OK, agora sobe as escadas!")
-print("esta ali o dragão!")
-print("queres atirar no dragão para ganhar?")
-escolha8 = input("Sim(S) ou Não(N)").lower()
-if escolha8 == "SIM(S)":
-    print("Parabéns,Tu conseguiste, GANHASTE!")
-elif escolha8 == "NÃO(N)":
-    print("o dragão matou-te GAME OVER!")
-    exit()
+if direcao1 == "frente":  # Se o jogador escolher a frente
+    print("Tu foste a andar por um caminho de terra.")  # Descrição da ação
+else:
+    if direcao1 == "direita":  # Se o jogador escolher a direita
+        print("Tu encontraste uma gruta escura.")  # Nova descrição para a direita
+        print("Queres entrar na gruta?")  # Pergunta se o jogador quer entrar
+        escolha5 = input("Sim (S) ou Não (N): ").lower()  # Captura a resposta
+        if escolha5 == "s":  # Se o jogador decide entrar na gruta
+            print("Dentro da gruta, encontras um tesouro! Mas há um guardião.")
+            print("Queres tentar pegar o tesouro?")  # Pergunta sobre pegar o tesouro
+            escolha6 = input("Sim (S) ou Não (N): ").lower()  # O jogador responde
+            if escolha6 == "s":  # Se o jogador tenta pegar o tesouro
+                print("O guardião acordou e atacou-te! FIM DE JOGO!")  # Resultado negativo
+                exit()
+            else:
+                print("Decidiste não pegar o tesouro e saíste da gruta.")  # Saída da gruta
+                exit()
+        else:
+            print("Decidiste não entrar na gruta. Fim do jogo.")  # Se o jogador não entrar
+            exit()
+    else:
+        print("Não encontraste nada de interessante. Fim do jogo.")  # Se o jogador não escolher uma direção válida
+        exit()
+print("Queres continuar a explorar o caminho?")  # Perguntar se o jogador quer continuar
+escolha2 = input("Sim (S) ou Não (N): ").lower()  # Captura a resposta
+if escolha2 == "s":
+    print("Continuaste a andar e encontraste uma espada. Desejas pegá-la?")  
+    escolha3 = input("Sim (S) ou Não (N): ").lower()  # Perguntar se o jogador quer pegar a espada
+    if escolha3 == "s":  # Se o jogador pegar a espada
+        print("Prepara-te, encontraste um Goblin Gigante!")  # Nova ameaça
+        print("Queres atacar o Goblin gigante?")  # Pergunta sobre a ação
+        escolha4 = input("Sim (S) ou Não (N): ").lower()  # Captura a resposta
+        if escolha4 == "s":  # Se o jogador decide atacar
+            print("MUITO BEM! Tu conseguiste matar o gigante. GANHASTE!")  # Vitória
+            exit()
+        elif escolha4 == "n":  # Se o jogador decide não atacar
+            print("O Goblin gigante atacou-te e tu morreste! FIM DE JOGO!")  # Resultado negativo
+            exit()
+else:
+    print("Decidiste não continuar. Fim do jogo.")  # Se o jogador não quiser continuar
