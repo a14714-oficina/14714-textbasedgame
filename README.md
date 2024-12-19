@@ -1,20 +1,57 @@
+<h1>Jogo: Floresta Encantada 🌳</h1>
 
-<h1>TextBasedGame</h1>
+<h2>Descrição</h2>
+<p>Este é um jogo interativo em Python que convida o jogador a explorar uma <strong>Floresta Encantada</strong> cheia de aventuras e escolhas. As decisões do jogador moldam o rumo da história, levando a finais diferentes.</p>
+<p>O jogo é simples e usa entradas de texto para interagir com o jogador, proporcionando uma experiência divertida e educativa para quem está a aprender programação.</p>
 
-<h1>Introdução ao Projeto<h1>
+<h2>Funcionalidades</h2>
+<ul>
+    <li>Escolha o nome do jogador.</li>
+    <li>Decida o rumo da história através de diferentes opções.</li>
+    <li>Explore cenários como rios, grutas e caminhos misteriosos.</li>
+    <li>Descubra tesouros ou enfrente perigos como um <strong>Goblin Gigante</strong>!</li>
+</ul>
 
-O jogo que eu criei é uma aventura em texto feita em Python, onde o jogador toma decisões que alteram o final da história. É destinado a pessoas que procuram um jogo fácil e divertido. O jogador pode explorar caminhos na floresta e enfrentar desafios, criando uma história interativa que depende das suas escolhas.
+<h2>Como Jogar</h2>
+<ol>
+    <li>Clone ou baixe este repositório no seu computador.</li>
+    <li>Certifique-se de ter o <strong>Python 3</strong> instalado.</li>
+    <li>Execute o ficheiro do jogo:</li>
+    <pre>python floresta_encantada.py</pre>
+    <li>Siga as instruções no ecrã para explorar a floresta e tomar decisões.</li>
+</ol>
 
-<h1>Onde Surgiu a Ideia?<h1>
+<h2>Requisitos</h2>
+<ul>
+    <li>Python 3.x</li>
+</ul>
 
-No início, eu não sabia bem o que queria fazer, mas, à medida que fui planeando o jogo, várias ideias começaram a surgir. A possibilidade de criar um mundo onde as escolhas do jogador fazem diferença foi uma grande motivação para desenvolver a história.
-Estrutura do Jogo
+<h2>Exemplo de Gameplay</h2>
+<pre>
+Bem-vindo à Floresta Encantada!
+Qual é o teu nome? Carlos
+Carlos, queres jogar?
+Sim (S) ou Não (N): S
+OK, vamos a isso!
+Tu estás na Floresta Tropical!
+Carlos, queres ir pela esquerda, pela direita ou pela frente? direita
+Tu encontraste uma gruta escura.
+Queres entrar na gruta?
+Sim (S) ou Não (N): S
+Dentro da gruta, encontras um tesouro! Mas há um guardião.
+Queres tentar pegar o tesouro?
+Sim (S) ou Não (N): S
+O guardião acordou e atacou-te! FIM DE JOGO!
+</pre>
 
-Utilizei muitas condições if e elif, além de variáveis simples para guardar o progresso do jogador. A interação ocorre através de escolhas de texto, onde o jogador decide direções e ações. O que o jogador escolhe tomas decisoes na história e no final do jogo. A estrutura permite que os jogadores explorem diferentes caminhos e, dependendo das suas decisões, podem encontrar tesouros, enfrentar criaturas ou até descobrir segredos escondidos na floresta.
+<h2>Notas</h2>
+<ul>
+    <li>Certifique-se de digitar as respostas corretamente para evitar comportamentos inesperados.</li>
+    <li>Este jogo foi criado como um exercício de aprendizado em Python.</li>
+</ul>
 
-<h1>Desafios e Soluções<h1>
+<h2>Contribuições</h2>
+<p>Se quiser melhorar o código ou adicionar novas funcionalidades, sinta-se à vontade para enviar um <strong>Pull Request</strong>. Feedbacks e sugestões também são bem-vindos! 😊</p>
 
-Um dos maiores desafios que encontrei foi evitar repetir partes do código, principalmente nas escolhas. Para resolver isso, procurei simplificar a lógica e juntar decisões semelhantes, mantendo o código limpo e fácil de entender.
-Conclusão
-
-Este projeto tem sido uma experiência muito positiva, ajudando-me a melhorar as minhas habilidades como programador. e Aprendi a importância de um bom planeamento No futuro, quero tornar o jogo mais completo, adicionando novas funcionalidades e desafios.
+<h2>Licença</h2>
+<p>Este projeto é livre para uso e modificação. Atribua o devido crédito ao autor se partilhar ou reutilizar o código.</p>
