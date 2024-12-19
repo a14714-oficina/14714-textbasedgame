@@ -29,7 +29,10 @@
     <li>Siga as instruções no ecrã para explorar a floresta e tomar decisões.</li>
 </ol>
 
-
+<h2>Requisitos</h2>
+<ul>
+    <li><strong>Python 3.x</strong>: A versão mais recente do Python é necessária para executar o jogo corretamente.</li>
+</ul>
 
 <h2>Exemplo de Jogo</h2>
 <pre>
@@ -48,5 +51,10 @@ Queres tentar pegar o tesouro?
 Sim (S) ou Não (N): S
 O guardião acordou e atacou-te! FIM DE JOGO!
 </pre>
+
+<h2>Notas</h2>
+<ul>
+    
     <li>Este jogo foi desenvolvido como um exercício de aprendizagem em Python, focado na construção de jogos interativos simples.</li>
 </ul>
+
