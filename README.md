@@ -20,11 +20,10 @@
 
 <h2>Como Jogar</h2>
 <ol>
-    <li>Clone ou descarregue este repositório no seu computador.</li>
-    <li>Certifique-se de ter o <strong>Python 3</strong> instalado.</li>
+    <li>Descarregar o código no python.</li>
     <li>Execute o ficheiro do jogo:</li>
     <pre>python floresta_encantada.py</pre>
-    <li>Siga as instruções no ecrã para explorar a floresta e tomar decisões.</li>
+    <li>Depois,siga as instruções no ecrã para explorar a floresta e tomar decisões.</li>
 </ol>
 
 <h2>Requisitos</h2>
