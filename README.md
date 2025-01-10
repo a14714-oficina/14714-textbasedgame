@@ -3,7 +3,6 @@
 <h2>Descrição</h2>
 <p>O <strong>Floresta Encantada</strong> é um jogo de aventura em texto criado em Python, onde o jogador embarca numa jornada interativa por uma floresta misteriosa. O objetivo principal do jogo é explorar diferentes cenários e tomar decisões que influenciam o rumo da história. Cada escolha feita pelo jogador pode levar a finais diferentes, o que torna a experiência única a cada partida. O jogo é simples, mas cativante, e serve como uma excelente introdução ao desenvolvimento de jogos interativos baseados em texto.</p>
 
-<p>Este projeto foi criado com o intuito de proporcionar uma experiência divertida e educativa, sendo uma ótima oportunidade para quem está a aprender programação em Python. A ideia central é que o jogador se sinta imerso numa história onde suas escolhas realmente importam, como em livros-jogos, mas de forma interativa e dinâmica.</p>
 
 <h2>Processo de Criação</h2>
 <p>A criação do jogo começou com uma ideia simples: criar uma história interativa onde o jogador poderia fazer escolhas e explorar diferentes caminhos. A inspiração veio dos livros de aventura clássicos, onde o leitor tomava decisões e o rumo da história mudava conforme suas respostas.</p>
