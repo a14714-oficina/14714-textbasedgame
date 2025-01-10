@@ -48,6 +48,6 @@ O guardião acordou e atacou-te! FIM DE JOGO!
 <h2>Notas</h2>
 <ul>
     
-    <li>Este jogo foi desenvolvido como um exercício de aprendizagem em Python, focado na construção de jogos interativos simples.</li>
+    <li>Este jogo foi desenvolvido em contexto de sala de aula com onjetivo de melhorar os meus conhecimentos na linguagem python. </li>
 </ul>
 
