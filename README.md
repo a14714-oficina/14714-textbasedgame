@@ -7,9 +7,8 @@
 <h2>Processo de Criação</h2>
 <p>A criação do jogo começou com uma ideia simples: criar uma história interativa onde o jogador poderia fazer escolhas e explorar diferentes caminhos. A inspiração veio dos livros de aventura clássicos, onde o leitor tomava decisões e o rumo da história mudava conforme suas respostas.</p>
 
-<p>Decidi implementar o jogo em Python, uma linguagem que é bastante acessível para iniciantes, mas que ainda oferece grande flexibilidade. A maior parte da lógica do jogo é baseada em <strong>condições</strong>, utilizando as instruções <strong>if</strong> e <strong>elif</strong> para controlar o fluxo das escolhas do jogador e direcioná-lo para diferentes caminhos na história. Além disso, utilizei <strong>funções simples</strong> para organizar melhor o código e torná-lo mais modular, permitindo adicionar novas funcionalidades no futuro.</p>
+<p>O Python é uma linguagem que é bastante acessível para iniciantes, mas que ainda oferece grande flexibilidade. A maior parte da lógica do jogo é baseada em <strong>condições</strong>, utilizando as instruções <strong>if</strong> e <strong>elif</strong> para controlar o fluxo das escolhas do jogador e direcioná-lo para diferentes caminhos na história. Além disso, utilizei <strong>funções simples</strong> para organizar melhor o código e torná-lo mais modular, permitindo adicionar novas funcionalidades no futuro.</p>
 
-<p>Outro ponto importante foi o design do jogo. Embora simples, a experiência interativa precisava ser fluida e envolvente. Isso foi conseguido através da criação de diálogos claros e objetivos, onde o jogador tem sempre uma escolha a fazer, o que mantém a história dinâmica e envolvente. Cada cenário e cada decisão afetam o desenvolvimento da história, proporcionando uma sensação de agência para o jogador.</p>
 
 <h2>Funcionalidades</h2>
 <ul>
