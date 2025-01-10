@@ -26,10 +26,6 @@
     <li>Depois,siga as instruções no ecrã para explorar a floresta e tomar decisões.</li>
 </ol>
 
-<h2>Requisitos</h2>
-<ul>
-    <li><strong>Python 3.x</strong>: A versão mais recente do Python é necessária para executar o jogo corretamente.</li>
-</ul>
 
 <h2>Exemplo de Jogo</h2>
 <pre>
