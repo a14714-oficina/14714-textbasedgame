@@ -1,4 +1,4 @@
-<h1>Jogo: Floresta Encantada 🌳</h1>
+<h1>Jogo: Floresta Encantada "FOJE DA FLORESTA!" 🌳</h1>
 
 <h2>Descrição</h2>
 <p>O <strong>Floresta Encantada</strong> é um jogo de aventura em texto criado em Python, onde o jogador embarca numa jornada interativa por uma floresta misteriosa. O objetivo principal do jogo é explorar diferentes cenários e tomar decisões que influenciam o rumo da história. Cada escolha feita pelo jogador pode levar a finais diferentes. O jogo é simples, mas é interessante, e serve como uma excelente introdução ao desenvolvimento de jogos interativos baseados em texto.</p>
