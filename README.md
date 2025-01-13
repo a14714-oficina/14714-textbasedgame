@@ -18,14 +18,6 @@
     <li><strong>Desafios e encontros</strong>: O jogo inclui elementos de surpresa, como a descoberta de tesouros ou o enfrentamento de criaturas, como um <strong>Goblin Gigante</strong>.</li>
 </ul>
 
-<h2>Como Jogar</h2>
-<ol>
-    <li>Descarregar o código no python.</li>
-    <li>Execute o ficheiro do jogo:</li>
-    <pre>python floresta_encantada.py</pre>
-    <li>Depois,siga as instruções no ecrã para explorar a floresta e tomar decisões.</li>
-</ol>
-
 
 <h2>Exemplo de Jogo</h2>
 <pre>
