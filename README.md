@@ -40,6 +40,6 @@ O guardião acordou e atacou-te! FIM DE JOGO!
 <h2>Notas</h2>
 <ul>
     
-    <li>Este jogo foi desenvolvido em contexto de sala de aula com onjetivo de melhorar os meus conhecimentos na linguagem python. </li>
+    <li>Este jogo foi desenvolvido em contexto de sala de aula com objetivo de melhorar os meus conhecimentos na linguagem python. </li>
 </ul>
 
