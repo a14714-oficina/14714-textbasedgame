@@ -13,7 +13,7 @@
 <h2>Funcionalidades</h2>
 <ul>
     <li><strong>Escolha o nome do jogador</strong>: O jogo começa perguntando o nome do jogador, o que o torna mais personalizado e envolvente.</li>
-    <li><strong>Decisões que afetam o rumo da história</strong>: Cada escolha tomada pelo jogador altera o desenvolvimento do enredo, levando a diferentes desfechos.</li>
+    <li><strong>Decisões que afetam o rumo da história</strong>: Cada escolha tomada pelo jogador altera o desenvolvimento do jogo, levando a diferentes finais.</li>
     <li><strong>Exploração de cenários</strong>: O jogador pode explorar diferentes locais dentro da floresta, como rios, grutas e caminhos misteriosos.</li>
     <li><strong>Desafios e encontros</strong>: O jogo inclui elementos de surpresa, como a descoberta de tesouros ou o enfrentamento de criaturas, como um <strong>Goblin Gigante</strong>.</li>
 </ul>
