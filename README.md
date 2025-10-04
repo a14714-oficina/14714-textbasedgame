@@ -1,26 +1,31 @@
-<h1>Jogo: Floresta Encantada "FOJE DA FLORESTA!" 🌳</h1>
+🎮 Jogo: Floresta Encantada — "FOJE DA FLORESTA!" 🌳
+🇵🇹 Descrição
 
-<h2>Descrição</h2>
-<p>O <strong>Floresta Encantada</strong> é um jogo de aventura em texto criado em Python, onde o jogador embarca numa jornada interativa por uma floresta misteriosa. O objetivo principal do jogo é explorar diferentes cenários e tomar decisões que influenciam o rumo da história. Cada escolha feita pelo jogador pode levar a finais diferentes. O jogo é simples, mas é interessante, e serve como uma excelente introdução ao desenvolvimento de jogos interativos baseados em texto.</p>
+O Floresta Encantada é um jogo de aventura em texto criado em Python, onde o jogador embarca numa jornada interativa por uma floresta misteriosa.
+O objetivo principal do jogo é explorar diferentes cenários e tomar decisões que influenciam o rumo da história.
+Cada escolha feita pelo jogador pode levar a finais diferentes.
+O jogo é simples, mas interessante, e serve como uma excelente introdução ao desenvolvimento de jogos interativos baseados em texto.
 
+🇵🇹 Processo de Criação
 
-<h2>Processo de Criação</h2>
-<p>A criação do jogo começou com uma ideia simples: criar uma história interativa onde o jogador poderia fazer escolhas e explorar diferentes caminhos. A inspiração veio dos livros de aventura clássicos, onde o leitor tomava decisões e o rumo da história mudava conforme suas respostas.</p>
+A criação do jogo começou com uma ideia simples: criar uma história interativa onde o jogador pudesse fazer escolhas e explorar diferentes caminhos.
+A inspiração veio dos livros de aventura clássicos, onde o leitor tomava decisões e o rumo da história mudava conforme suas respostas.
 
-<p>O Python é uma linguagem que é bastante acessível para iniciantes, mas que ainda oferece grande flexibilidade. A maior parte da lógica do jogo é baseada em <strong>condições</strong>, utilizando as instruções <strong>if</strong> e <strong>elif</strong> para controlar o fluxo das escolhas do jogador e direcioná-lo para diferentes caminhos na história. Além disso, utilizei <strong>funções simples</strong> para organizar melhor o código e torná-lo mais legivel, e também permitindo adicionar novas funcionalidades no futuro.</p>
+O Python é uma linguagem bastante acessível para iniciantes, mas que oferece grande flexibilidade.
+A maior parte da lógica do jogo baseia-se em condições, utilizando as instruções if e elif para controlar o fluxo das escolhas do jogador e direcioná-lo para diferentes caminhos na história.
+Além disso, foram utilizadas funções simples para organizar melhor o código, torná-lo mais legível e facilitar a adição de novas funcionalidades no futuro.
 
+🇵🇹 Funcionalidades
 
-<h2>Funcionalidades</h2>
-<ul>
-    <li><strong>Escolha o nome do jogador</strong>: O jogo começa perguntando o nome do jogador, o que o torna mais personalizado e envolvente.</li>
-    <li><strong>Decisões que afetam o rumo da história</strong>: Cada escolha tomada pelo jogador altera o desenvolvimento do jogo, levando a diferentes finais.</li>
-    <li><strong>Exploração de cenários</strong>: O jogador pode explorar diferentes locais dentro da floresta, como rios, grutas e caminhos misteriosos.</li>
-    <li><strong>Desafios e encontros</strong>: O jogo inclui elementos de surpresa, como a descoberta de tesouros ou o enfrentamento de criaturas, como um <strong>Goblin Gigante</strong>.</li>
-</ul>
+🧍‍♂️ Escolha o nome do jogador — o jogo começa pedindo o nome do jogador, tornando a experiência mais personalizada.
 
+🧭 Decisões que afetam o rumo da história — cada escolha altera o desenvolvimento do jogo, levando a diferentes finais.
 
-<h2>Exemplo de Jogo</h2>
-<pre>
+🌲 Exploração de cenários — o jogador pode visitar rios, grutas e caminhos misteriosos.
+
+⚔️ Desafios e encontros — há elementos surpresa, como tesouros e criaturas, incluindo um Goblin Gigante.
+
+🇵🇹 Exemplo de Jogo
 Bem-vindo à Floresta Encantada!
 Qual é o teu nome? Carlos
 Carlos, queres jogar?
@@ -35,11 +40,54 @@ Dentro da gruta, encontras um tesouro! Mas há um guardião.
 Queres tentar pegar o tesouro?
 Sim (S) ou Não (N): S
 O guardião acordou e atacou-te! FIM DE JOGO!
-</pre>
 
-<h2>Notas</h2>
-<ul>
-    
-    <li>Este jogo foi desenvolvido em contexto de sala de aula com objetivo de melhorar os meus conhecimentos na linguagem python. </li>
-</ul>
+🇵🇹 Notas
 
+Este jogo foi desenvolvido em contexto escolar, com o objetivo de praticar e melhorar os meus conhecimentos em Python.
+
+🌍 Game: Enchanted Forest — "ESCAPE THE FOREST!" 🌳
+🇬🇧 Description
+
+Enchanted Forest is a text-based adventure game built with Python, where the player embarks on an interactive journey through a mysterious forest.
+The main goal is to explore different areas and make decisions that influence the story’s outcome.
+Each choice can lead to multiple endings.
+It’s a simple but engaging project and a great introduction to interactive text game development.
+
+🇬🇧 Development Process
+
+The game started from a simple idea: to create an interactive story where the player could make decisions and explore different paths.
+It was inspired by classic adventure books, where the reader’s choices changed the course of the story.
+
+Python was chosen for its accessibility to beginners and flexibility.
+Most of the game’s logic is based on conditional statements (if / elif) that control the flow of choices and lead to different story paths.
+Additionally, functions were used to organize the code, making it easier to read and expand in the future.
+
+🇬🇧 Features
+
+🧍‍♂️ Choose your player name — personalize your adventure from the start.
+
+🧭 Branching decisions — every choice affects the story’s direction and outcome.
+
+🌲 Environment exploration — discover rivers, caves, and mysterious paths.
+
+⚔️ Challenges and encounters — face surprises like treasures and creatures such as a Giant Goblin.
+
+🇬🇧 Game Example
+Welcome to the Enchanted Forest!
+What’s your name? Carlos
+Carlos, do you want to play?
+Yes (Y) or No (N): Y
+OK, let’s go!
+You are in the Tropical Forest!
+Carlos, do you want to go left, right, or straight? right
+You found a dark cave.
+Do you want to enter?
+Yes (Y) or No (N): Y
+Inside the cave, you find a treasure! But there’s a guardian.
+Do you want to grab the treasure?
+Yes (Y) or No (N): Y
+The guardian woke up and attacked you! GAME OVER!
+
+🇬🇧 Notes
+
+This project was developed as a classroom assignment, aimed at improving my Python programming skills.
