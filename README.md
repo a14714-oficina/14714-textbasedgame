@@ -97,3 +97,5 @@ The guardian woke up and attacked you! GAME OVER!
 <ul>
     <li>This project was developed in a classroom context to practice and improve my <strong>Python</strong> programming skills.</li>
 </ul>
+<p>Carlos Alves</p>
+<h6>OFICINA, Escola Profissional &copy; 2024-2025</h6>
