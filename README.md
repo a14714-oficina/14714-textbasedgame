@@ -1,31 +1,29 @@
-🎮 Jogo: Floresta Encantada — "FOJE DA FLORESTA!" 🌳
-🇵🇹 Descrição
+<h1>🎮 Jogo: Floresta Encantada — "FOJE DA FLORESTA!" 🌳</h1>
 
-O Floresta Encantada é um jogo de aventura em texto criado em Python, onde o jogador embarca numa jornada interativa por uma floresta misteriosa.
-O objetivo principal do jogo é explorar diferentes cenários e tomar decisões que influenciam o rumo da história.
-Cada escolha feita pelo jogador pode levar a finais diferentes.
-O jogo é simples, mas interessante, e serve como uma excelente introdução ao desenvolvimento de jogos interativos baseados em texto.
+<h2>🇵🇹 Descrição</h2>
+<p>O <strong>Floresta Encantada</strong> é um jogo de aventura em texto criado em <strong>Python</strong>, onde o jogador embarca numa jornada interativa por uma floresta misteriosa. O objetivo principal é explorar diferentes cenários e tomar decisões que influenciam o rumo da história. Cada escolha feita pelo jogador pode levar a finais diferentes. O jogo é simples, mas interessante, e serve como uma excelente introdução ao desenvolvimento de <strong>jogos interativos baseados em texto</strong>.</p>
 
-🇵🇹 Processo de Criação
+<hr>
 
-A criação do jogo começou com uma ideia simples: criar uma história interativa onde o jogador pudesse fazer escolhas e explorar diferentes caminhos.
-A inspiração veio dos livros de aventura clássicos, onde o leitor tomava decisões e o rumo da história mudava conforme suas respostas.
+<h2>🇵🇹 Processo de Criação</h2>
+<p>A criação do jogo começou com uma ideia simples: criar uma história interativa onde o jogador pudesse fazer escolhas e explorar diferentes caminhos. A inspiração veio dos <strong>livros de aventura clássicos</strong>, onde o leitor tomava decisões e o rumo da história mudava conforme suas respostas.</p>
 
-O Python é uma linguagem bastante acessível para iniciantes, mas que oferece grande flexibilidade.
-A maior parte da lógica do jogo baseia-se em condições, utilizando as instruções if e elif para controlar o fluxo das escolhas do jogador e direcioná-lo para diferentes caminhos na história.
-Além disso, foram utilizadas funções simples para organizar melhor o código, torná-lo mais legível e facilitar a adição de novas funcionalidades no futuro.
+<p>O <strong>Python</strong> foi escolhido por ser uma linguagem acessível e flexível. A lógica do jogo baseia-se em <strong>condições</strong> utilizando as instruções <code>if</code> e <code>elif</code> para controlar o fluxo das escolhas do jogador e direcioná-lo para diferentes caminhos na história. Além disso, utilizei <strong>funções simples</strong> para organizar melhor o código, torná-lo mais legível e permitir futuras expansões.</p>
 
-🇵🇹 Funcionalidades
+<hr>
 
-🧍‍♂️ Escolha o nome do jogador — o jogo começa pedindo o nome do jogador, tornando a experiência mais personalizada.
+<h2>🇵🇹 Funcionalidades</h2>
+<ul>
+    <li>🧍‍♂️ <strong>Escolha o nome do jogador</strong>: O jogo começa pedindo o nome do jogador, tornando a experiência mais personalizada.</li>
+    <li>🧭 <strong>Decisões que afetam o rumo da história</strong>: Cada escolha altera o desenvolvimento do jogo e pode levar a finais diferentes.</li>
+    <li>🌲 <strong>Exploração de cenários</strong>: Explora locais como rios, grutas e caminhos misteriosos dentro da floresta.</li>
+    <li>⚔️ <strong>Desafios e encontros</strong>: Enfrenta surpresas, como encontrar tesouros ou criaturas perigosas, como o <strong>Goblin Gigante</strong>.</li>
+</ul>
 
-🧭 Decisões que afetam o rumo da história — cada escolha altera o desenvolvimento do jogo, levando a diferentes finais.
+<hr>
 
-🌲 Exploração de cenários — o jogador pode visitar rios, grutas e caminhos misteriosos.
-
-⚔️ Desafios e encontros — há elementos surpresa, como tesouros e criaturas, incluindo um Goblin Gigante.
-
-🇵🇹 Exemplo de Jogo
+<h2>🇵🇹 Exemplo de Jogo</h2>
+<pre>
 Bem-vindo à Floresta Encantada!
 Qual é o teu nome? Carlos
 Carlos, queres jogar?
@@ -40,39 +38,43 @@ Dentro da gruta, encontras um tesouro! Mas há um guardião.
 Queres tentar pegar o tesouro?
 Sim (S) ou Não (N): S
 O guardião acordou e atacou-te! FIM DE JOGO!
+</pre>
 
-🇵🇹 Notas
+<hr>
 
-Este jogo foi desenvolvido em contexto escolar, com o objetivo de praticar e melhorar os meus conhecimentos em Python.
+<h2>🇵🇹 Notas</h2>
+<ul>
+    <li>Este jogo foi desenvolvido em contexto de sala de aula com o objetivo de melhorar os meus conhecimentos em <strong>Python</strong>.</li>
+</ul>
 
-🌍 Game: Enchanted Forest — "ESCAPE THE FOREST!" 🌳
-🇬🇧 Description
+<hr>
 
-Enchanted Forest is a text-based adventure game built with Python, where the player embarks on an interactive journey through a mysterious forest.
-The main goal is to explore different areas and make decisions that influence the story’s outcome.
-Each choice can lead to multiple endings.
-It’s a simple but engaging project and a great introduction to interactive text game development.
+<h1>🌍 Game: Enchanted Forest — "ESCAPE THE FOREST!" 🌳</h1>
 
-🇬🇧 Development Process
+<h2>🇬🇧 Description</h2>
+<p><strong>Enchanted Forest</strong> is a <strong>text-based adventure game</strong> built with <strong>Python</strong>, where the player embarks on an interactive journey through a mysterious forest. The main goal is to explore different areas and make decisions that influence the story’s outcome. Each choice can lead to multiple endings. It’s a simple but engaging project and a great introduction to <strong>interactive text game development</strong>.</p>
 
-The game started from a simple idea: to create an interactive story where the player could make decisions and explore different paths.
-It was inspired by classic adventure books, where the reader’s choices changed the course of the story.
+<hr>
 
-Python was chosen for its accessibility to beginners and flexibility.
-Most of the game’s logic is based on conditional statements (if / elif) that control the flow of choices and lead to different story paths.
-Additionally, functions were used to organize the code, making it easier to read and expand in the future.
+<h2>🇬🇧 Development Process</h2>
+<p>The game started from a simple idea: to create an interactive story where the player could make decisions and explore different paths. It was inspired by <strong>classic adventure books</strong>, where the reader’s choices changed the story’s outcome.</p>
 
-🇬🇧 Features
+<p><strong>Python</strong> was chosen for its accessibility and flexibility. Most of the game’s logic is based on <strong>conditional statements</strong> using <code>if</code> and <code>elif</code> to control the player’s choices and guide them to different story paths. Simple <strong>functions</strong> were used to keep the code organized and easy to expand later on.</p>
 
-🧍‍♂️ Choose your player name — personalize your adventure from the start.
+<hr>
 
-🧭 Branching decisions — every choice affects the story’s direction and outcome.
+<h2>🇬🇧 Features</h2>
+<ul>
+    <li>🧍‍♂️ <strong>Choose your player name</strong>: Personalize your adventure from the start.</li>
+    <li>🧭 <strong>Branching decisions</strong>: Every choice affects the story’s direction and outcome.</li>
+    <li>🌲 <strong>Environment exploration</strong>: Discover rivers, caves, and mysterious paths.</li>
+    <li>⚔️ <strong>Challenges and encounters</strong>: Face surprises like treasures and creatures such as a <strong>Giant Goblin</strong>.</li>
+</ul>
 
-🌲 Environment exploration — discover rivers, caves, and mysterious paths.
+<hr>
 
-⚔️ Challenges and encounters — face surprises like treasures and creatures such as a Giant Goblin.
-
-🇬🇧 Game Example
+<h2>🇬🇧 Game Example</h2>
+<pre>
 Welcome to the Enchanted Forest!
 What’s your name? Carlos
 Carlos, do you want to play?
@@ -87,7 +89,11 @@ Inside the cave, you find a treasure! But there’s a guardian.
 Do you want to grab the treasure?
 Yes (Y) or No (N): Y
 The guardian woke up and attacked you! GAME OVER!
+</pre>
 
-🇬🇧 Notes
+<hr>
 
-This project was developed as a classroom assignment, aimed at improving my Python programming skills.
+<h2>🇬🇧 Notes</h2>
+<ul>
+    <li>This project was developed in a classroom context to practice and improve my <strong>Python</strong> programming skills.</li>
+</ul>
