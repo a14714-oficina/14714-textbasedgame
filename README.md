@@ -30,7 +30,7 @@ O site foi criado para praticar a construção de páginas web com foco em:
 ---
 
 ## 🇵🇹 Demonstração
-O website pode ser visualizado localmente abrindo o ficheiro `index.html` no navegador.  
+O website pode ser visualizado localmente abrindo o link `https://a14714-oficina.infinityfree.me/fp01/index.html` no navegador.  
 Todas as páginas estão ligadas através do menu de navegação no cabeçalho.
 
 ---
